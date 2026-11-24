@@ -1,5 +1,5 @@
 
-# Googlectf24-rustyschool — How the Challenge Was Solved So Quickly
+# Rev-Rustyschool — How the Challenge Was Solved So Quickly
 
 **Result**
 
