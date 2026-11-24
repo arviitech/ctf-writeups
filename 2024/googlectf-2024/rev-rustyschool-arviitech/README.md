@@ -1,5 +1,5 @@
 
-# blind_rev_01 — How the Challenge Was Solved So Quickly
+# Googlectf24-rustyschool — How the Challenge Was Solved So Quickly
 
 **Result**
 
